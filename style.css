@@ -1,0 +1,147 @@
+body{
+	background-color:#303030;
+	color:#ffffff;
+	font-family: 'Lato', sans-serif;
+	font-size:20px;
+}
+#conteiner
+{
+	width:1000px;
+	margin-left:auto;
+	margin-right:auto;
+}
+.rectangle
+{
+	width:960px;
+	margin:20px;
+	text-align:center;
+}
+.square
+{
+	wight:50%;
+	float:left;
+}
+#logo
+{
+	float:left;
+	font-family:font-family: 'Josefin Sans', sans-serif;
+	font-size:70px;
+	width:960px;
+	margin-top:10px;
+	margin-bottom:10px;
+	text-align:center;
+}
+#clock
+{
+	float:left;
+	font-family:font-family: 'Josefin Sans', sans-serif;
+	font-size:70px;
+	margin-top:10px;
+	margin-bottom:10px;
+	text-align:left;
+	
+}
+.tile1
+{
+	margin:10px;
+	width:230px;
+	height:142px;
+	background-color:#19a56f;
+	float:left;
+	text-align:center;
+}
+.tile1:hover
+{
+	background-color:#18a45e;
+}
+.tile2
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#666666;
+	float:left;
+	text-align:center;
+}
+.tile2:hover
+{
+	background-color:#555555;
+}
+.tile3
+{
+	margin:10px;
+	width:480px;
+	height:142px;
+	background-color:#19a56f;
+	text-align:central;
+	font-size:30px;
+	
+}
+.tile4
+{
+	margin:10px;
+	width:420px;
+	height:406px;
+	background-color:#666666;
+	text-align:justify;
+	padding:30px;
+	
+}
+.tileFB
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#4668b3;
+	float:left;
+	text-align:center;
+	
+}
+.tileFB:hover
+{
+	background-color:#3557a2;
+}
+.tileIN
+{
+	margin:10px;
+	width:105px;
+	height:142px;
+	background-color:#0e76a8;
+	float:left;
+	text-align:center;
+	
+}
+.tileIN:hover
+{
+	background-color:#0d65a7;
+}
+a.tileLink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:230px;
+	height:142px;
+	
+}
+a.tileLinkHTML5
+{
+	color:#ffffff;
+	text-decoration:none;
+	
+}
+a.socialLink
+{
+	color:#ffffff;
+	text-decoration:none;
+	display:block;
+	width:105px;
+	height:142px;
+	
+}
+
+
+
+
+
+
